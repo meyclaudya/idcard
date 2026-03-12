@@ -1,6 +1,6 @@
 # Project: Kartu Identitas Digital 🪪
 
-Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
+Tugas Praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Screenshots
 <img src="tugas2.jpeg" alt="Deskripsi" width="50%">
